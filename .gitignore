@@ -1,0 +1,12 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pt
+*.pth
+*.joblib
+*.wav
+cache/
+ckpt/
+classifier_comparison_output/
+.env
+kaggle.json
+.DS_Store
